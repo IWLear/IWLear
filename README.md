@@ -159,11 +159,9 @@ const IWLear = {
 <div align="center">
 
 <!-- Replace the # URLs with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IWLear)
-[![Twitter/X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IWLear)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iwlear.dev)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwlear@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897579777655980053)
 <br/>
 
 ```
