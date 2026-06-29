@@ -1,12 +1,14 @@
-<<div align="center">
+<div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=160&section=header&text=IWLear&fontSize=60&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=68&descColor=aaaaaa&animation=twinkling" />
+<!--  HERO CARD  -->
+<img width="860" src="https://raw.githubusercontent.com/IWLear/IWLear/main/hero.svg" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/IWLear">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+things+that+matter;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</a>
+<br/>
+
+[![Site](https://img.shields.io/badge/site-iwlear.dev-000000?style=flat-square&logoColor=white)](https://iwlear.dev)
+[![Mail](https://img.shields.io/badge/mail-iwlear%40gmail.com-111111?style=flat-square&logoColor=white)](mailto:iwlear@gmail.com)
+[![Discord](https://img.shields.io/badge/discord-IWLear-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/897579777655980053)
+[![GitHub](https://img.shields.io/badge/github-IWLear-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/IWLear)
 
 <br/>
 
@@ -157,9 +159,11 @@ const IWLear = {
 <div align="center">
 
 <!-- Replace the # URLs with your actual links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iwlear.dev)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwlear@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897579777655980053)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IWLear)
+[![Twitter/X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IWLear)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
 <br/>
 
 ```
