@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--  HERO CARD  -->
+
 <img width="860" src="https://raw.githubusercontent.com/IWLear/IWLear/main/hero.svg" />
 
 <br/>
@@ -19,7 +19,7 @@
 
 ---
 
-<!-- ABOUT ME -->
+
 <img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=IWLear&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&ring_color=ffffff&count_private=true" />
 
 ### `> whoami`
@@ -45,7 +45,7 @@ const IWLear = {
 
 ---
 
-<!-- TECH STACK -->
+
 ## `> tech.stack`
 
 <div align="center">
@@ -76,7 +76,7 @@ const IWLear = {
 
 ---
 
-<!-- GITHUB STATS -->
+
 ## `> git.stats`
 
 <div align="center">
@@ -88,21 +88,20 @@ const IWLear = {
 
 <br/>
 
-<!-- STREAK STATS -->
 <a href="https://github.com/IWLear">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IWLear&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=666666&stroke=222222" />
 </a>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IWLear&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-<!-- PROJECTS -->
+
 ## `> featured.projects`
 
 <div align="center">
@@ -116,36 +115,11 @@ const IWLear = {
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+
 ## `> contributions.snake`
 
 <div align="center">
 
-<!--
-  One-time setup — add this file to your IWLear/IWLear repo:
-  Path: .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: IWLear
-            outputs: |
-              dist/github-snake-bw.svg?color_snake=ffffff&color_dots=#333333,#555555,#888888,#aaaaaa,#ffffff&color_empty=#111111&color_bg=0d0d0d
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ![Snake animation](https://raw.githubusercontent.com/IWLear/IWLear/output/github-snake-bw.svg)
 
@@ -153,16 +127,9 @@ const IWLear = {
 
 ---
 
-<!-- CONTACT -->
-## `> connect.with.me`
 
 <div align="center">
 
-<!-- Replace the # URLs with your actual links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iwlear.dev)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwlear@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/897579777655980053)
-<br/>
 
 ```
 "First, solve the problem. Then, write the code." — John Johnson
@@ -170,7 +137,7 @@ const IWLear = {
 
 </div>
 
-<!-- FOOTER WAVE -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=100&section=footer" />
 
 <div align="center">
