@@ -174,9 +174,3 @@ const IWLear = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IWLear&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" />
 </div>
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1a1f2e,100:0d1117&height=100&section=footer" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IWLear&label=Profile%20Views&color=1f6feb&style=flat" alt="Profile Views" />
-</div>
