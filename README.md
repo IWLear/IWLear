@@ -159,7 +159,7 @@ const IWLear = {
 <!-- Replace the # URLs with your actual links -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iwlear.dev)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iwlear@gmail.com)
-[![Discord](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://discord.com/users/897579777655980053)
+[![Discord](]https://img.shields.io/badge/Label-Color?logo=discord&logoColor=white)](https://discord.com/users/897579777655980053)
 <br/>
 
 ```
