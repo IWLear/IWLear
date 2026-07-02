@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img width="860" src="https://raw.githubusercontent.com/IWLear/IWLear/main/hero.svg" />
 
 <br/>
@@ -18,7 +17,6 @@
 </div>
 
 ---
-
 
 <img align="right" width="310" src="https://github-readme-stats.vercel.app/api?username=IWLear&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&ring_color=ffffff&count_private=true" />
 
@@ -44,7 +42,6 @@ const IWLear = {
 <br clear="right"/>
 
 ---
-
 
 ## `> tech.stack`
 
@@ -76,7 +73,6 @@ const IWLear = {
 
 ---
 
-
 ## `> git.stats`
 
 <div align="center">
@@ -94,13 +90,11 @@ const IWLear = {
 
 <br/>
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=IWLear&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=555555&point=ffffff&area=true&area_color=333333&hide_border=true" width="95%"/>
 
 </div>
 
 ---
-
 
 ## `> featured.projects`
 
@@ -108,18 +102,17 @@ const IWLear = {
 
 [![codepets](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=codepets&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/codepets)
 [![mathsbot-js](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=mathsbot-js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/mathsbot-js)
+
 [![Stax-CLI](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=Stax-CLI&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/Stax-CLI)
-[![github-wrapped](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=github-wrapped&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/github-wrapped))
+[![github-wrapped](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=github-wrapped&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/github-wrapped)
 
 </div>
 
 ---
 
-
 ## `> contributions.snake`
 
 <div align="center">
-
 
 ![Snake animation](https://raw.githubusercontent.com/IWLear/IWLear/output/github-snake-bw.svg)
 
@@ -127,19 +120,10 @@ const IWLear = {
 
 ---
 
-
 <div align="center">
 
-
 ```
-"First, solve the problem. Then, write the code." — John Johnson
+~/dev › last commit: today · always shipping
 ```
 
-</div>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=100&section=footer" />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IWLear&label=Profile%20Views&color=000000&style=flat" alt="Profile Views" />
 </div>
