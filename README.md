@@ -108,8 +108,8 @@ const IWLear = {
 
 [![codepets](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=codepets&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/codepets)
 [![mathsbot-js](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=mathsbot-js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/mathsbot-js)
-[![nextjs-commerce](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=nextjs-commerce&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/nextjs-commerce)
-[![pysnakegame](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=pysnakegame&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/pysnakegame)
+[![Stax-CLI](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=Stax-CLI&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/Stax-CLI)
+[![github-wrapped](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=github-wrapped&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/github-wrapped))
 
 </div>
 
