@@ -100,11 +100,32 @@ const IWLear = {
 
 <div align="center">
 
-[![codepets](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=codepets&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/codepets)
-[![mathsbot-js](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=mathsbot-js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/mathsbot-js)
-
-[![Stax-CLI](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=Stax-CLI&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/Stax-CLI)
-[![github-wrapped](https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=github-wrapped&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)](https://github.com/IWLear/github-wrapped)
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/IWLear/codepets">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=codepets&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/IWLear/mathsbot-js">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=mathsbot-js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/IWLear/Stax-CLI">
+        <img src="https://socialify.git.ci/IWLear/Stax-CLI/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=0&pattern=Signal&theme=Dark" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/IWLear/github-wrapped">
+        <img src="https://socialify.git.ci/IWLear/github-wrapped/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=0&pattern=Signal&theme=Dark" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
