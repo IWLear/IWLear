@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="860" src="https://raw.githubusercontent.com/IWLear/IWLear/main/hero.svg" />
@@ -104,12 +105,12 @@ const IWLear = {
   <tr>
     <td width="50%">
       <a href="https://github.com/IWLear/codepets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=codepets&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" width="100%" />
+        <img src="https://socialify.git.ci/IWLear/codepets/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=0&pattern=Signal&theme=Dark" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/IWLear/mathsbot-js">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IWLear&repo=mathsbot-js&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" width="100%" />
+        <img src="https://socialify.git.ci/IWLear/mathsbot-js/image?description=1&font=Source+Code+Pro&language=1&name=1&owner=0&pattern=Signal&theme=Dark" width="100%" />
       </a>
     </td>
   </tr>
